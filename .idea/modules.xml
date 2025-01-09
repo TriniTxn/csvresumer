@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IdeiasJirico.iml" filepath="$PROJECT_DIR$/IdeiasJirico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CsvReducer.iml" filepath="$PROJECT_DIR$/CsvReducer.iml" />
     </modules>
   </component>
 </project>
